@@ -1,9 +1,9 @@
 # atd-utils-data (datautil)
 
 ## Installation
-```
-# something like
-# git+https://github.com/cityofaustin/transportation-data-utils-agol.git@master
+
+```bash
+$ pip install atd_datautil
 ```
 
 ## License
