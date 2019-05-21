@@ -4,11 +4,11 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="datautil",
+    name="atd_datautil",
     version="0.0.1",
     author="City of Austin",
     author_email="transportation.data@austintexas.gov",
-    description="Miscellaneous utilities for manipulating data types.",
+    description="Miscellaneous utilities for manipulating data.",
     install_requires=[
       'requests',
     ],

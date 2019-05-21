@@ -1,9 +1,0 @@
-README.md
-setup.py
-datautil/__init__.py
-datautil/datautil.py
-datautil.egg-info/PKG-INFO
-datautil.egg-info/SOURCES.txt
-datautil.egg-info/dependency_links.txt
-datautil.egg-info/requires.txt
-datautil.egg-info/top_level.txt
