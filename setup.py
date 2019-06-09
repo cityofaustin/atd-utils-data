@@ -5,12 +5,13 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="atd_datautil",
-    version="0.0.1",
+    version="0.0.2",
     author="City of Austin",
     author_email="transportation.data@austintexas.gov",
     description="Miscellaneous utilities for manipulating data.",
     install_requires=[
       'requests',
+      'arrow'
     ],
     long_description=long_description,
     long_description_content_type="text/markdown",
